@@ -1,4 +1,4 @@
-# 🎉 Olivetti Faces Random Forest Classification Project
+# Olivetti Faces Random Forest Classification
 
 This project aims to perform face recognition and classification on the Olivetti Faces dataset using the **Random Forest** algorithm. We analyze model performance in detail with hyperparameter analysis and visualizations.
 
